@@ -1,2 +1,2 @@
 # Documentation
-Checklists, bug reports, test-cases
+Test-plan, checklists, test-cases, bug reports
